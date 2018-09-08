@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ReleaseVersion>1.1.0</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>1.1.0</PackageVersion>
+    <Authors>Greg Kaestle</Authors>
+    <Owners>Flagscript</Owners>
+    <Description>Foundational Language Classes for the Flagscript Framework.</Description>
+    <PackageId>Flagscript</PackageId>
+    <PackageProjectUrl>https://github.com/flagscript/Flagscript</PackageProjectUrl>
+    <Summary>Foundational Classes for the Flagscript Framework.</Summary>
+    <PackageTags>flagscript</PackageTags>
+    <Title>Flagscript</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Entity\" />
+    <Folder Include="Data\Repository\" />
+  </ItemGroup>
+</Project>
