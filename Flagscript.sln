@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 		README.md = README.md
 		LICENSE = LICENSE
+		flagscript-nuget.png = flagscript-nuget.png
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flagscript.Test", "Flagscript.Test\Flagscript.Test.csproj", "{42FA97B2-80CC-4D09-A76D-431B68F06E27}"
