@@ -222,7 +222,7 @@ namespace Flagscript.Data.Repository
 		/// <param name="id">The identity of the entity to retrieve.</param>
 		/// <returns>The entity matching the given identifier.</returns>
 		/// <typeparam name="TEntity">The <see cref="IEntity"/> type.</typeparam>
-		public virtual async Task<IEntity> GetByIdAync<TEntity>(object id)
+		public virtual async Task<IEntity> GetByIdAsync<TEntity>(object id)
 			where TEntity : class, IEntity
 		{
 			return await context.Set<TEntity>().FindAsync(id);
