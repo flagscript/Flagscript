@@ -14,7 +14,7 @@ functionality and exception bases.
 The currently available exception hierarchy is:
 
 * Flagscript.FlagscriptException
-** Flagscript.Data.FlagscriptDataException
+  * Flagscript.Data.FlagscriptDataException
 
 ### Flagscript.Data.Entity Namespace
 
@@ -30,25 +30,25 @@ Flagscript.Data.Entity types.
 
 Flagscript is available as a NuGet package:
 
-*** NuGet (PM Console)
+### NuGet (PM Console)
 
 ```bash
 PM> Install-Package Flagscript -Version 2.0.0 -Source https://www.myget.org/F/flagscript/api/v3/index.json
 ```
 
-*** NuGet.exe
+### NuGet.exe
 
 ```bash
 > nuget.exe install Flagscript -Version 2.0.0 -Source https://www.myget.org/F/flagscript/api/v3/index.json
 ```
 
-*** .NET CLI
+### .NET CLI
 
 ```bash
 > dotnet add package Flagscript --version 2.0.0 --source https://www.myget.org/F/flagscript/api/v3/index.json
 ```
 
-***  .csproj
+###  .csproj
 
 ```xml
 <PackageReference Include="Flagscript" Version="2.0.0" />
@@ -71,7 +71,7 @@ the [tags on this repository](https://github.com/flagscript/Flagscript/releases)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
