@@ -39,6 +39,13 @@ Global
 		$0.TextStylePolicy = $4
 		$4.FileWidth = 80
 		$4.scope = text/plain
+		$0.VersionControlPolicy = $5
+		$5.CommitMessageStyle = $6
+		$6.FirstFilePrefix = 
+		$6.FileSeparator = ", "
+		$6.LastFilePostfix = @:\n
+		$6.LineAlign = 0
+		$6.Wrap = False
 		version = 2.0.0
 	EndGlobalSection
 EndGlobal
