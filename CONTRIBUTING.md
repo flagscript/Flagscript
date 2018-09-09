@@ -5,6 +5,11 @@ more mature level. This will be updated once the project is open to contribution
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
+## Github Flow
+
+Following the release of v2.0.0, the Flagscript project is maintained using 
+[Github Flow](https://guides.github.com/introduction/flow/).
+
 ## Code of Conduct
 
 ### Our Pledge
