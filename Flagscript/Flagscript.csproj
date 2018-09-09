@@ -16,6 +16,7 @@
     <PackageLicenseUrl>https://github.com/flagscript/Flagscript/blob/master/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Rebase of the Flagscript Core Library.</PackageReleaseNotes>
+    <PackageIconUrl>https://github.com/flagscript/Flagscript/blob/master/flagscript-nuget.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
