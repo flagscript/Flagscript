@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>3.0.0</PackageVersion>
+    <Authors>Greg Kaestle, Flagscript</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageLicenseUrl>https://github.com/flagscript/Flagscript/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Owners>Flagscript</Owners>
+    <PackageProjectUrl>https://github.com/flagscript/Flagscript</PackageProjectUrl>
+    <PackageReleaseNotes>Revamp to slim foundational library.</PackageReleaseNotes>
+    <Summary>Foundational Classes for the Flagscript Framework.</Summary>
+    <PackageTags>flagscript, dotnet, dotnet-core, dotnet-standard, dotnet-library</PackageTags>
+    <Title>Flagscript</Title>
+    <Description>Foundational Classes for the Flagscript Framework.</Description>
+    <PackageIconUrl>https://raw.githubusercontent.com/flagscript/Flagscript/master/flagscript-nuget.png</PackageIconUrl>
+    <ReleaseVersion>3.0.0</ReleaseVersion>
+    <PackageId>Flagscript</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Extensions\Dotnet\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+  </ItemGroup>
+</Project>

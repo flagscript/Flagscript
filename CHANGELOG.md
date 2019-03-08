@@ -1,23 +1,18 @@
-﻿# Changelog
-All notable changes to this project will be documented in this file.
+## v3.0.0  
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Release 3.0.0 is a rebaseline of the core Flagscript library to thin it down and get it into the new Flagscript project structure.  
 
-## [2.0.1] - 2018-09-11
+Features:  
+* Bump version to 3.0.0.  
+* Remove classes not needed in a slim focused core.
+* Restructure to new Flagscript package structure.
 
-### Changed
-- Fixed NuGet image url.
+Authors: 
+* [Greg Kaestle](mailto:flagscript@gmail.com)  
 
-## [2.0.0] - 2018-09-11
+# Resolved Issues:    
+* #2, #3, #4 
 
-### Added
-- Generic Repository and Entity Framework classes.
-- Migrate Core library to .Net Standard 2.0.
-- Unit Tests for the Flagscript Library.
+## Prior Version
 
-### Changed
-- FlagscriptDataException migrated from retired Flagscript.Data Library.
-
-### Removed
-- All previous versions of the core framework are now obsolete.
+Versions prior to 3.0.0 were under a different changelog format, and aren't going to be mentioned as 3 is the new baseline. Also, quite frankly, they don't matter anyways.

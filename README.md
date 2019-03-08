@@ -1,57 +1,42 @@
-﻿# Flagscript 
+# Flagscript.Alexa
 
-The base Flagscript library is a class library used to provide core support for 
-Flagscript website management. It is the highest level of promotion for all classes
-and interfaces in the framework. 
+[![GitHub last commit](https://img.shields.io/github/last-commit/flagscript/Flagscript.svg?logo=github)](https://github.com/flagscript/Flagscript)
+[![flagscript MyGet Build Status](https://www.myget.org/BuildSource/Badge/flagscript?identifier=5e901ae6-3936-4b38-8a6d-a0ad42764916)](https://www.myget.org/feed/flagscript/package/nuget/Flagscript)
+[![Nuget](https://img.shields.io/nuget/v/Flagscript..svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
+[![Nuget](https://img.shields.io/nuget/dt/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
 
-## Overview
+A .NET Standard library for building Alexa skills using AWS Lambda.
 
-As of the current version, the core functionality is to provide generic data access
-functionality and exception bases. 
+## Documentation
 
-### Exceptions
+[Documentation](./documentation/DOCUMENTATION.md) on how to use the Flagscript library is available within this repository. 
 
-The currently available exception hierarchy is:
-
-* Flagscript.FlagscriptException
-  * Flagscript.Data.FlagscriptDataException
-
-### Flagscript.Data.Entity Namespace
-
-Provides base classes for EF Core entities with generically typed Ids and view model
-tagging interfaces. 
-
-### Flagscript.Data.Repository Namespace
-
-Provides interface and base classes to provide a DAL layer with generics for 
-Flagscript.Data.Entity types. 
-
-## Usage
+## Download
 
 Flagscript is available as a NuGet package:
 
 ### NuGet (PM Console)
 
 ```bash
-PM> Install-Package Flagscript -Version 2.0.1 -Source https://www.myget.org/F/flagscript/api/v3/index.json
+PM> Install-Package Flagscript -Version 3.0.0
 ```
 
 ### NuGet.exe
 
 ```bash
-> nuget.exe install Flagscript -Version 2.0.1 -Source https://www.myget.org/F/flagscript/api/v3/index.json
+> nuget.exe install Flagscript.Alexa -Version 3.0.0
 ```
 
 ### .NET CLI
 
 ```bash
-> dotnet add package Flagscript --version 2.0.1 --source https://www.myget.org/F/flagscript/api/v3/index.json
+> dotnet add package Flagscript.Alexa --version 3.0.0
 ```
 
 ###  .csproj
 
 ```xml
-<PackageReference Include="Flagscript" Version="2.0.1" />
+<PackageReference Include="Flagscript" Version="3.0.0" />
 ```
 
 ## Contributing
@@ -63,16 +48,12 @@ for details on our code of conduct.
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see 
-the [tags on this repository](https://github.com/flagscript/Flagscript/releases). 
+the [tags on this repository](https://github.com/flagscript/blob/master/Flagscript/releases). 
 
 ## Authors
 
-* **Greg Kaestle** - *Initial work* - [Flagscript](https://flagscript.net)
+* **Greg Kaestle** - [Flagscript](https://flagscript.net)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-* Hat tip to [Chris Pratt](https://cpratt.co) for some of the generic repo ideas being expanded upon.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/flagscript/Flagscript/blob/master/LICENSE.md) file for details.
