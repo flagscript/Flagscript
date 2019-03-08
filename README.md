@@ -2,10 +2,10 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/flagscript/Flagscript.svg?logo=github)](https://github.com/flagscript/Flagscript)
 [![flagscript MyGet Build Status](https://www.myget.org/BuildSource/Badge/flagscript?identifier=5e901ae6-3936-4b38-8a6d-a0ad42764916)](https://www.myget.org/feed/flagscript/package/nuget/Flagscript)
-[![Nuget](https://img.shields.io/nuget/v/Flagscript..svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
+[![Nuget](https://img.shields.io/nuget/v/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
 [![Nuget](https://img.shields.io/nuget/dt/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
 
-A .NET Standard library for building Alexa skills using AWS Lambda.
+Foundational Classes for the Flagscript Framework.
 
 ## Documentation
 
