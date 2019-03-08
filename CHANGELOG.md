@@ -13,9 +13,6 @@ Authors:
 # Resolved Issues:    
 * #2, #3, #4 
 
-# Pull Requests:  
-* #1
-
 ## Prior Version
 
 Versions prior to 3.0.0 were under a different changelog format, and aren't going to be mentioned as 3 is the new baseline. Also, quite frankly, they don't matter anyways.
