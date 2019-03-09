@@ -18,31 +18,31 @@ Flagscript is available as a NuGet package:
 ### NuGet (PM Console)
 
 ```bash
-PM> Install-Package Flagscript -Version 3.0.0
+PM> Install-Package Flagscript -Version 3.0.1
 ```
 
 ### NuGet.exe
 
 ```bash
-> nuget.exe install Flagscript.Alexa -Version 3.0.0
+> nuget.exe install Flagscript -Version 3.0.1
 ```
 
 ### .NET CLI
 
 ```bash
-> dotnet add package Flagscript.Alexa --version 3.0.0
+> dotnet add package Flagscript --version 3.0.1
 ```
 
 ###  .csproj
 
 ```xml
-<PackageReference Include="Flagscript" Version="3.0.0" />
+<PackageReference Include="Flagscript" Version="3.0.1" />
 ```
 
 ## Contributing
 
 Although contributions for this project are not yet open, please read 
-[CONTRIBUTING.md](https://github.com/flagscript/Flagscript/blob/master/CONTRIBUTING.md) 
+[CONTRIBUTING](https://github.com/flagscript/Flagscript/blob/master/CONTRIBUTING.md) 
 for details on our code of conduct.
 
 ## Versioning

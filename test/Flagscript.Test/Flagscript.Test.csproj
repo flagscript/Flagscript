@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <ReleaseVersion>3.0.0</ReleaseVersion>
-    <PackageVersion>3.0.0</PackageVersion>
+    <ReleaseVersion>3.0.1</ReleaseVersion>
+    <PackageVersion>3.0.1</PackageVersion>
     <Authors>Greg Kaestle, Flagscript</Authors>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Summary>Greg Kaestle, Flagscript</Summary>
