@@ -1,3 +1,18 @@
+## v3.0.1  
+
+Release 3.0.1 fixes some github documentation errors and updates version.
+
+Features:  
+* Fix README documentation.  
+* Bump to 3.0.1.  
+* Update Release Notes  
+
+Authors:  
+* [Greg Kaestle](mailto:flagscript@gmail.com)  
+
+# Resolved Issues:  
+* #8, #9, #11  
+
 ## v3.0.0  
 
 Release 3.0.0 is a rebaseline of the core Flagscript library to thin it down and get it into the new Flagscript project structure.  

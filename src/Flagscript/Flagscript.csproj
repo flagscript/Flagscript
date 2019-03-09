@@ -10,7 +10,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Owners>Flagscript</Owners>
     <PackageProjectUrl>https://github.com/flagscript/Flagscript</PackageProjectUrl>
-    <PackageReleaseNotes>Revamp to slim foundational library.</PackageReleaseNotes>
+    <PackageReleaseNotes>Documentation Fixes.</PackageReleaseNotes>
     <Summary>Foundational Classes for the Flagscript Framework.</Summary>
     <PackageTags>flagscript, dotnet, dotnet-core, dotnet-standard, dotnet-library</PackageTags>
     <Title>Flagscript</Title>
