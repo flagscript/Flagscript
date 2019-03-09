@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>3.0.0</PackageVersion>
+    <PackageVersion>3.0.1</PackageVersion>
     <Authors>Greg Kaestle, Flagscript</Authors>
     <NeutralLanguage>en-US</NeutralLanguage>
     <PackageLicenseUrl>https://github.com/flagscript/Flagscript/blob/master/LICENSE.md</PackageLicenseUrl>
@@ -16,7 +16,7 @@
     <Title>Flagscript</Title>
     <Description>Foundational Classes for the Flagscript Framework.</Description>
     <PackageIconUrl>https://raw.githubusercontent.com/flagscript/Flagscript/master/flagscript-nuget.png</PackageIconUrl>
-    <ReleaseVersion>3.0.0</ReleaseVersion>
+    <ReleaseVersion>3.0.1</ReleaseVersion>
     <PackageId>Flagscript</PackageId>
   </PropertyGroup>
 
