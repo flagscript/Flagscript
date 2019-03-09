@@ -16,7 +16,7 @@
     <PackageTags>flagscript, dotnet, dotnet-core, dotnet-standard, dotnet-library</PackageTags>
     <Owners>Flagscript</Owners>
     <PackageId>Flagscript.Test</PackageId>
-    <PackageReleaseNotes>Revamp to slim foundational library.</PackageReleaseNotes>
+    <PackageReleaseNotes>Documentation Fixes.</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
