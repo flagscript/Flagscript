@@ -1,6 +1,7 @@
-﻿using System.ComponentModel;
+﻿
+using System.ComponentModel;
 
-namespace Flagscript.Extensions.Dotnet.Test
+namespace Flagscript.Unit.Tests.Extensions.Dotnet
 {
 
 	/// <summary>

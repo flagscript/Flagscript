@@ -2,7 +2,9 @@
 
 using Xunit;
 
-namespace Flagscript.Extensions.Dotnet.Test
+using Flagscript.Extensions.Dotnet;
+
+namespace Flagscript.Unit.Tests.Extensions.Dotnet
 {
 
 	/// <summary>
@@ -10,8 +12,6 @@ namespace Flagscript.Extensions.Dotnet.Test
 	/// </summary>
 	public class EnumExtensionsTest
 	{
-
-		#region Test methods
 
 		/// <summary>
 		/// Tests <see cref="EnumExtensions.GetEnumDescription{T}(T)" /> with a 
@@ -54,16 +54,6 @@ namespace Flagscript.Extensions.Dotnet.Test
 			Assert.Equal("TwoValue", TestEnum.ValueTwo.GetEnumDescription());
 
 		}
-
-		#endregion
-
-	}
-
-	/// <summary>
-	/// Test struct for <see cref="EnumExtensionsTest.TestGetEnumDescriptionNonEnumType"/>.
-	/// </summary>
-	public struct TestStruct
-	{
 
 	}
 
