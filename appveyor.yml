@@ -3,7 +3,7 @@
 #---------------------------------#
 
 # version format
-version: '3.1.0.{build}'
+version: '3.1.1.{build}'
 
 # Maximum number of concurrent jobs for the project
 max_jobs: 1
@@ -25,7 +25,7 @@ clone_depth: 1
 
 #environment variables
 environment:
-  use_version: 3.1.0
+  use_version: 3.1.1
 
 # scripts that run after cloning repository
 install:
