@@ -9,6 +9,12 @@ Foundational Classes for the Flagscript Framework.
 | Pre-Release | [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript) |
 | Release | [![Nuget (with prereleases)](https://img.shields.io/nuget/v/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript) |
 
+## Quick Usage
+
+The Flagscript library is primarily intended for use in other Flagscript projects as a base library.
+
+That being said, clients of other Flagscript libraries will likely want to be aware of exceptions thrown in the Flagscript framework.
+
 ## Documentation
 
 [Documentation](./documentation/DOCUMENTATION.md) on how to use the Flagscript library is available within this repository. 
