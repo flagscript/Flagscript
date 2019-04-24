@@ -1,30 +1,30 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
+  
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>3.0.1</PackageVersion>
+    <PackOnBuild>false</PackOnBuild>
+    <PackageVersion>3.1.0</PackageVersion>
     <Authors>Greg Kaestle, Flagscript</Authors>
-    <NeutralLanguage>en-US</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/flagscript/Flagscript/blob/master/LICENSE.md</PackageLicenseUrl>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <Owners>Flagscript</Owners>
-    <PackageProjectUrl>https://github.com/flagscript/Flagscript</PackageProjectUrl>
-    <PackageReleaseNotes>Documentation Fixes.</PackageReleaseNotes>
-    <Summary>Foundational Classes for the Flagscript Framework.</Summary>
-    <PackageTags>flagscript, dotnet, dotnet-core, dotnet-standard, dotnet-library</PackageTags>
-    <Title>Flagscript</Title>
-    <Description>Foundational Classes for the Flagscript Framework.</Description>
+    <Company>Flagscript</Company>
+    <Copyright>©2019 Flagscript</Copyright>
     <PackageIconUrl>https://raw.githubusercontent.com/flagscript/Flagscript/master/flagscript-nuget.png</PackageIconUrl>
-    <ReleaseVersion>3.0.1</ReleaseVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/flagscript/Flagscript</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Owners>Greg Kaestle, Flagscript</Owners>
+    <PackageProjectUrl>https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage/projects/1</PackageProjectUrl>
+    <PackageReleaseNotes>Additional Exception</PackageReleaseNotes>
+    <Summary>S3/Cloudfront Media Provider for Piranha CMS</Summary>
+    <PackageTags>dotnet, dotnet-standard, dotnet-library, flagscript</PackageTags>
+    <Title>Flagscript.PiranhaCms.Aws.S3Storage</Title>
+    <Description>Foundational Classes for the Flagscript Framework</Description>
+    <AssemblyVersion>3.1.0</AssemblyVersion>
+    <FileVersion>3.1.0</FileVersion>
+    <InformationalVersion>3.1.0-beta</InformationalVersion>
     <PackageId>Flagscript</PackageId>
-  </PropertyGroup>
+    <Product>Flagscript</Product>
+  </PropertyGroup>  
 
-  <ItemGroup>
-    <Folder Include="Extensions\" />
-    <Folder Include="Extensions\Dotnet\" />
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
-  </ItemGroup>
 </Project>
