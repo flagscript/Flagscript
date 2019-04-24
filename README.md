@@ -17,7 +17,7 @@ That being said, clients of other Flagscript libraries will likely want to be aw
 
 ## Documentation
 
-[Documentation](./documentation/DOCUMENTATION.md) on how to use the Flagscript library is available within this repository. 
+[Documentation](./DOCUMENTATION.md) on how to use the Flagscript library is available within this repository. 
 
 ## Download
 
