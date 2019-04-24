@@ -23,7 +23,7 @@ namespace Flagscript.Unit.Tests.Extensions.Dotnet
 			TestStruct testStruct = new TestStruct();
 			try
 			{
-				string noDesc = testStruct.GetEnumDescription();
+				testStruct.GetEnumDescription();
 			}
 			catch (ArgumentException ae)
 			{
