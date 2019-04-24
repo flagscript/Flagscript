@@ -1,11 +1,13 @@
-# Flagscript.Alexa
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/flagscript/Flagscript.svg?logo=github)](https://github.com/flagscript/Flagscript)
-[![flagscript MyGet Build Status](https://www.myget.org/BuildSource/Badge/flagscript?identifier=5e901ae6-3936-4b38-8a6d-a0ad42764916)](https://www.myget.org/feed/flagscript/package/nuget/Flagscript)
-[![Nuget](https://img.shields.io/nuget/v/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
-[![Nuget](https://img.shields.io/nuget/dt/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript/)
+# Flagscript
 
 Foundational Classes for the Flagscript Framework.
+
+| Version | Status |
+| --- | --- |
+| Latest | [![last commit](https://img.shields.io/github/last-commit/flagscript/Flagscript.svg?logo=github)](https://github.com/flagscript/Flagscript) [![build status](https://img.shields.io/appveyor/ci/Flagscript/flagscript.svg?logo=appveyor)](https://ci.appveyor.com/project/Flagscript/flagscript) [![unit test](https://img.shields.io/appveyor/tests/Flagscript/flagscript.svg?label=unit%20tests&logo=appveyor)](https://ci.appveyor.com/project/Flagscript/flagscript) |
+| Master | [![last commit](https://img.shields.io/github/last-commit/flagscript/Flagscript/master.svg?logo=github)](https://github.com/flagscript/Flagscript) [![build status](https://img.shields.io/appveyor/ci/Flagscript/flagscript/master.svg?logo=appveyor)](https://ci.appveyor.com/project/Flagscript/flagscript) [![unit and integration  test](https://img.shields.io/appveyor/tests/Flagscript/flagscript/master.svg?label=unit/integration%20tests&logo=appveyor)](https://ci.appveyor.com/project/Flagscript/flagscript) [![Codacy](https://img.shields.io/codacy/grade/096a3c8d327e4e168bea4e3ebf06d402.svg?logo=codacy)](https://app.codacy.com/project/flagscript/Flagscript/dashboard) [![LGTM Total Alerts](https://img.shields.io/lgtm/alerts/g/flagscript/Flagscript.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/flagscript/Flagscript/alerts/) |
+| Pre-Release | [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript) |
+| Release | [![Nuget (with prereleases)](https://img.shields.io/nuget/v/Flagscript.svg?logo=nuget)](https://www.nuget.org/packages/Flagscript) |
 
 ## Documentation
 
@@ -15,28 +17,16 @@ Foundational Classes for the Flagscript Framework.
 
 Flagscript is available as a NuGet package:
 
-### NuGet (PM Console)
-
-```bash
-PM> Install-Package Flagscript -Version 3.0.1
-```
-
-### NuGet.exe
-
-```bash
-> nuget.exe install Flagscript -Version 3.0.1
-```
-
 ### .NET CLI
 
 ```bash
-> dotnet add package Flagscript --version 3.0.1
+> dotnet add package Flagscript --version 3.1.0
 ```
 
 ###  .csproj
 
 ```xml
-<PackageReference Include="Flagscript" Version="3.0.1" />
+<PackageReference Include="Flagscript" Version="3.1.0" />
 ```
 
 ## Contributing
@@ -52,7 +42,7 @@ the [tags on this repository](https://github.com/flagscript/Flagscript/releases)
 
 ## Authors
 
-* **Greg Kaestle** - [Flagscript](https://flagscript.net)
+* **Greg Kaestle** - [Flagscript](https://flagscript.technology)
 
 ## License
 
