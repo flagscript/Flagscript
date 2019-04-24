@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{198674B6-1F9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flagscript", "src\Flagscript\Flagscript.csproj", "{A7787932-152E-4A8E-B4C9-BD6185597194}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B7782160-D212-4898-89E5-97C7367FFBFB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6479C57D-C8F6-4744-8F20-1C19FBAEB94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flagscript.Test", "test\Flagscript.Test\Flagscript.Test.csproj", "{A58D798D-B99D-4312-A65E-9372CCA693A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flagscript.Unit.Tests", "test\Flagscript.Unit.Tests\Flagscript.Unit.Tests.csproj", "{9723DFB3-C568-4D74-B820-73C04872B44A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,22 +36,22 @@ Global
 		{A7787932-152E-4A8E-B4C9-BD6185597194}.Release|x64.Build.0 = Release|Any CPU
 		{A7787932-152E-4A8E-B4C9-BD6185597194}.Release|x86.ActiveCfg = Release|Any CPU
 		{A7787932-152E-4A8E-B4C9-BD6185597194}.Release|x86.Build.0 = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|x64.Build.0 = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Debug|x86.Build.0 = Debug|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|x64.ActiveCfg = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|x64.Build.0 = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|x86.ActiveCfg = Release|Any CPU
-		{A58D798D-B99D-4312-A65E-9372CCA693A8}.Release|x86.Build.0 = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|x64.Build.0 = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Debug|x86.Build.0 = Debug|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|x64.ActiveCfg = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|x64.Build.0 = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|x86.ActiveCfg = Release|Any CPU
+		{9723DFB3-C568-4D74-B820-73C04872B44A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A7787932-152E-4A8E-B4C9-BD6185597194} = {198674B6-1F95-44EF-8CCF-A700C57C76E2}
-		{A58D798D-B99D-4312-A65E-9372CCA693A8} = {B7782160-D212-4898-89E5-97C7367FFBFB}
+		{9723DFB3-C568-4D74-B820-73C04872B44A} = {6479C57D-C8F6-4744-8F20-1C19FBAEB94D}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		description = Foundational Classes for the Flagscript Framework.

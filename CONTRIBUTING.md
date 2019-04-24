@@ -1,14 +1,12 @@
 # Contributing
 
-This project is currently closed to contribution until other dependancies reach a 
-more mature level. This will be updated once the project is open to contribution.
+This project is currently closed to contribution until other dependancies reach a more mature level. This will be updated once the project is open to contribution.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Github Flow
 
-The Flagscript.Alexa project is maintained using 
-[Github Flow](https://guides.github.com/introduction/flow/).
+The Flagscript.Alexa project is maintained using [Github Flow](https://guides.github.com/introduction/flow/).
 
 ## Code of Conduct
 
@@ -34,11 +32,8 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
