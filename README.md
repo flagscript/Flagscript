@@ -29,7 +29,7 @@ Flagscript is available as a NuGet package:
 > dotnet add package Flagscript --version 3.1.1
 ```
 
-###  .csproj
+### .csproj
 
 ```xml
 <PackageReference Include="Flagscript" Version="3.1.1" />

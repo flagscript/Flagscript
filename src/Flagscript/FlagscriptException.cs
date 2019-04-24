@@ -13,7 +13,7 @@ namespace Flagscript
 		/// <summary>
 		/// Initializes a new instance of the <see cref="FlagscriptException"/> class.
 		/// </summary>
-		public FlagscriptException() : base()
+		public FlagscriptException()
 		{
 		}
 
