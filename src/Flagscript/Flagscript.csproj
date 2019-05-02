@@ -15,7 +15,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Owners>Greg Kaestle, Flagscript</Owners>
     <PackageProjectUrl>https://github.com/flagscript/Flagscript/projects/3</PackageProjectUrl>
-    <PackageReleaseNotes>Fix NuGet metadata and Codacy style errors</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/flagscript/Flagscript.Gravatar/blob/master/CHANGELOG.md</PackageReleaseNotes>
     <Summary>Foundational Classes for the Flagscript Framework</Summary>
     <PackageTags>dotnet, dotnet-standard, dotnet-library, flagscript</PackageTags>
     <Description>Foundational Classes for the Flagscript Framework</Description>
