@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackOnBuild>false</PackOnBuild>
-    <PackageVersion>3.1.1</PackageVersion>
+    <PackageVersion>3.2.0</PackageVersion>
     <Authors>Greg Kaestle, Flagscript</Authors>
     <Company>Flagscript</Company>
     <Copyright>©2019 Flagscript</Copyright>
@@ -14,14 +14,14 @@
     <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Owners>Greg Kaestle, Flagscript</Owners>
-    <PackageProjectUrl>https://github.com/flagscript/Flagscript/projects/2</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/flagscript/Flagscript/projects/3</PackageProjectUrl>
     <PackageReleaseNotes>Fix NuGet metadata and Codacy style errors</PackageReleaseNotes>
     <Summary>Foundational Classes for the Flagscript Framework</Summary>
     <PackageTags>dotnet, dotnet-standard, dotnet-library, flagscript</PackageTags>
     <Description>Foundational Classes for the Flagscript Framework</Description>
-    <AssemblyVersion>3.1.1</AssemblyVersion>
-    <FileVersion>3.1.1</FileVersion>
-    <InformationalVersion>3.1.1</InformationalVersion>
+    <AssemblyVersion>3.2.0</AssemblyVersion>
+    <FileVersion>3.2.0</FileVersion>
+    <InformationalVersion>3.2.0</InformationalVersion>
     <PackageId>Flagscript</PackageId>
     <Product>Flagscript</Product>
   </PropertyGroup>  
