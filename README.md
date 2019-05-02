@@ -26,13 +26,13 @@ Flagscript is available as a NuGet package:
 ### .NET CLI
 
 ```bash
-> dotnet add package Flagscript --version 3.1.1
+> dotnet add package Flagscript --version 3.2.0
 ```
 
 ### .csproj
 
 ```xml
-<PackageReference Include="Flagscript" Version="3.1.1" />
+<PackageReference Include="Flagscript" Version="3.2.0" />
 ```
 
 ## Contributing
