@@ -10,7 +10,8 @@
     <RepositoryType>git</RepositoryType>
     <Owners>Greg Kaestle, Flagscript</Owners>
     <Summary>Unit tests for Flagscript</Summary>
-    <ReleaseVersion>3.0.1</ReleaseVersion>
+    <ReleaseVersion>3.2.0</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
 
   <ItemGroup>

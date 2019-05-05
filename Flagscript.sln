@@ -55,6 +55,6 @@ Global
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		description = Foundational Classes for the Flagscript Framework.
-		version = 3.0.1
+		version = 3.2.0
 	EndGlobalSection
 EndGlobal
