@@ -10,6 +10,7 @@
     <RepositoryType>git</RepositoryType>
     <Owners>Greg Kaestle, Flagscript</Owners>
     <Summary>Unit tests for Flagscript</Summary>
+    <ReleaseVersion>3.0.1</ReleaseVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,4 +23,8 @@
     <ProjectReference Include="..\..\src\Flagscript\Flagscript.csproj" />
   </ItemGroup>
  
+  <ItemGroup>
+    <Folder Include="Caching\" />
+    <Folder Include="Caching\Memory\" />
+  </ItemGroup>
 </Project>
